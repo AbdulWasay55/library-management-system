@@ -1,0 +1,34 @@
+[
+  {
+    "Title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "Publication Year": 1988,
+    "Genre": "Fiction",
+    "Read Status": true,
+    "Added Date": "2025-03-20"
+  },
+  {
+    "Title": "Atomic Habits",
+    "Author": "James Clear",
+    "Publication Year": 2018,
+    "Genre": "Self-Help",
+    "Read Status": false,
+    "Added Date": "2025-03-18"
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Publication Year": 1949,
+    "Genre": "Dystopian",
+    "Read Status": true,
+    "Added Date": "2025-03-15"
+  },
+  {
+    "Title": "The Pragmatic Programmer",
+    "Author": "Andrew Hunt & David Thomas",
+    "Publication Year": 1999,
+    "Genre": "Programming",
+    "Read Status": false,
+    "Added Date": "2025-03-19"
+  }
+]
